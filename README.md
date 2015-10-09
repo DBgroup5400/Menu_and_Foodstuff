@@ -1,0 +1,2 @@
+# Menu_and_Foodstuff
+メニューDBと食材DBの各テーブルを作成するSQLスクリプト
